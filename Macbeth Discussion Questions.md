@@ -1,12 +1,11 @@
-Mr. Adair
 # English 10 – Literature of Western Civilization                                        
-Macbeth
-2018-19                                                                                                          
+> Mr. Adair\
+> *Macbeth* -- 2018-19                                                                                                          
  
 The Renaissance (14th – 16th Centuries) was one of the richest cultural periods in Western history, and the works of Shakespeare are a product of that period and the Elizabethan Age (during the reign of Elizabeth I, 1532-1603). In order to understand the beauty and sophistication of the entire period, we will explore not only this wonderful play but also the other cultural riches of the Renaissance. We will be looking at some art from the Renaissance and listening to music from the period; however, combine this with our study of Shakespeare (during which we will watch portions of two versions of the play’s performance) and the historical context of both his time and the time in which the play is set, and we will have a more complete picture of the Renaissance and the time of Elizabeth.
  
  
-Discussion Questions for the Acts –You MAY NOT use any outside sources as you answer the questions for the play, only what I give you in class.
+***Discussion Questions for the Acts –You MAY NOT use any outside sources as you answer the questions for the play, only what I give you in class.***
  
 ## Act I
  
