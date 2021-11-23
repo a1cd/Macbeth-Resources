@@ -53,12 +53,12 @@ The Renaissance (14th – 16th Centuries) was one of the richest cultural period
  1) The play concludes with a public oration by Malcolm, who is about to be crowned King of Scotland.  What aspects of this speech make it an appropriate conclusion?  Do we learn anything new in the speech?
  1) Tragedy moves an audience to sympathy.  If Macbeth were nothing but the story of an evil man and his violent crimes, it would not have the power to move us as it does.  The central figure of the play is a tragic hero—a man of imagination and courage, with a fatal weakness, or tragic flaw, in his character (as we saw with Oedipus).  What is that flaw and how does it destroy him?  Does Lady Macbeth share this flaw?
  
-Questions on the play as a whole (the entire class will tackle these—Do NOT answer these with your partner)
+***Questions on the play as a whole (the entire class will tackle these—Do NOT answer these with your partner)***
  
-Although Macbeth and Lady Macbeth possess a number of the same character traits, they also reveal many dissimilarities of character.  Referring to specific lines or incidents throughout the play, compare and contrast the characters of Macbeth and his wife.
-Analyze the character of one of the leading figures in Macbeth and show, by reference to specific lines in the play, the means whereby this person’s character is revealed; through the reactions of others, through the person’s own actions or conversations, or through soliloquies.
-While the speeches of both Macbeth and Lady Macbeth are written in blank verse, the poetic language in which they express their thoughts and feelings is quite different.  Quoting passages from the play, analyze and compare the language used by Macbeth and his wife.  How does Shakespeare individualize his characters through their language?
-A frequent subject of debate is the question of just how much control the witches had over Macbeth’s free will and his destiny.  Present your own opinions on this argument, supporting your viewpoint with references to the play.
-Compare and contrast the two film versions we have been watching and point out some of the more significant differences between them.
+ 1. Although Macbeth and Lady Macbeth possess a number of the same character traits, they also reveal many dissimilarities of character.  Referring to specific lines or incidents throughout the play, compare and contrast the characters of Macbeth and his wife.
+ 1. Analyze the character of one of the leading figures in Macbeth and show, by reference to specific lines in the play, the means whereby this person’s character is revealed; through the reactions of others, through the person’s own actions or conversations, or through soliloquies.
+ 1. While the speeches of both Macbeth and Lady Macbeth are written in blank verse, the poetic language in which they express their thoughts and feelings is quite different.  Quoting passages from the play, analyze and compare the language used by Macbeth and his wife.  How does Shakespeare individualize his characters through their language?
+ 1. A frequent subject of debate is the question of just how much control the witches had over Macbeth’s free will and his destiny.  Present your own opinions on this argument, supporting your viewpoint with references to the play.
+ 1. Compare and contrast the two film versions we have been watching and point out some of the more significant differences between them.
  
  
