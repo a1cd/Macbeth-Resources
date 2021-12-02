@@ -1,3 +1,4 @@
+> Disclaimer! This is a direct copy of [MIT's Tragedy Of Macbeth Website](http://shakespeare.mit.edu/macbeth/full.html)
 # Act I
 
 ## Scene I: A desert place.
