@@ -25,7 +25,7 @@ The Renaissance (14th – 16th Centuries) was one of the richest cultural period
  1. The Porter’s speech as he answers the knocking at the gate at the beginning of Scene 3 is one of the best known examples in all Shakespeare of what is called “comic relief.”  Judging from this scene, what do you think is relieved by the Porter’s comic speech?  What elements or images in the speech provide an extension of, rather than a contrast to, the atmosphere of the preceding scene?
  1. The murder of Duncan provokes different thoughts and reactions in Macbeth’s guests.  After carefully rereading the lines in Scene 3 that describe the private thoughts of Banquo and Malcolm, discuss what you think they are saying.  What do we learn of importance from these responses?
  1. In Scene 4 there are several examples of dramatic irony in which situations are the tragic reverse of what the participants think.  What is ironic about Macduff’s replying to Ross’s question “Those that Macbeth hath slain”?  What is ironic about Macduff’s suspicion of Duncan’s two sons, Malcolm and Donalbain?
- 1) What examples are there throughout Act II of the effect upon nature of human deeds?  In Scene 4 alone, what three strange and unnatural events are described that would instill the superstitious Elizabethan audience with a sense of foreboding?
+ 1. What examples are there throughout Act II of the effect upon nature of human deeds?  In Scene 4 alone, what three strange and unnatural events are described that would instill the superstitious Elizabethan audience with a sense of foreboding?
  
 ## Act III
  
