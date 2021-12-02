@@ -1,9 +1,25 @@
-> Disclaimer! This is a direct copy of [MIT's Tragedy Of Macbeth Website](http://shakespeare.mit.edu/macbeth/full.html)
-# Act I
+>Disclaimer! This is a direct copy of [MIT's Tragedy Of Macbeth Website](http://shakespeare.mit.edu/macbeth/full.html)
+
+# Table Of Contents
+[Act 1 (`I`)][a1]\
+[Act 2 (`II`)][a2]\
+[Act 3 (`III`)][a3]\
+[Act 4 (`IV`)][a4]\
+[Act 5 (`V`)][a5]
+
+[a1]: #act-i
+[a2]: #act-ii
+[a3]: #act-iii
+[a4]: #act-iv
+[a5]: #act-v
+[toc]: #table-of-contents
+
+# Act I 
+[Contents][toc]
 
 ## Scene I: A desert place.
 
-_[[Thunder and lightning. Enter three Witches]]_ 
+_[Thunder and lightning. Enter three Witches]_ 
 
 **First Witch**\
 When shall we three meet again\
@@ -837,7 +853,8 @@ Away, and mock the time with fairest show:\
 False face must hide what the false heart doth know.\
 _[Exeunt]_
 
-# Act II
+# Act II 
+[Contents][toc]
 
 ## Scene I: Court of Macbeth's castle.
 
@@ -1532,6 +1549,7 @@ That would make good of bad, and friends of foes!\
 _[Exeunt]_
 
 # Act III
+[Contents][toc]
 
 ## Scene I: Forres. The palace.
 
@@ -2355,6 +2373,7 @@ I'll send my prayers with him.\
 _[Exeunt]_
 
 # Act IV
+[Contents][toc]
 
 ## Scene I: A cavern. In the middle, a boiling cauldron.
 
@@ -3265,6 +3284,7 @@ The night is long that never finds the day.\
 _[Exeunt]_
 
 # Act V
+[Contents][toc]
 
 ## Scene I: Dunsinane. Ante-room in the castle.
 
