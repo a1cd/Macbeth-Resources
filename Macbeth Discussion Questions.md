@@ -29,13 +29,14 @@ The Renaissance (14th – 16th Centuries) was one of the richest cultural period
  
 ## Act III
  
- 1. In the opening speech of Act III, Banquo muses on the witches’ prophecies.  Which have come true?  Which give Banquo hope for the future?  Why has Banquo remained silent when he believes that Macbeth has played “most foully”?
+ 1. In the [opening speech of Act III, Banquo muses on the witches’ prophecies.][openingSpeech]  Which have come true?  Which give Banquo hope for the future?  Why has Banquo remained silent when he believes that Macbeth has played “most foully”?
  1. In the opening conversations of Scene 1, there are several examples of dramatic irony.  Pick out four separate instances and explain the irony of each.
  1. How do scenes 1 and 2 reveal a moral change in Macbeth?  There is also a change in the relationship between Macbeth and his wife.  What is the change and where is it most apparent?  What does it reveal about Macbeth’s moral state?
  1. One of the great puzzles of the play is the appearance of the third murderer in Scene 3.  Some authorities feel it is a messenger from Macbeth; some feel it is Macbeth himself; some feel it is a person who, either from friendship to Banquo’s cause or at the witches’ instigation, joins the murderers to assure Fleance’s escape.  Select one of these theories, or invent one of your own, and be ready to defend it.
  1. In the banquet scene (Scene 4), what speeches by Macbeth seem to call forth Banquo’s ghost?  What is ironic about this timing?  How does Lady Macbeth act to save Macbeth?
  1. By the time of the banquet scene, Macbeth has taken the two major steps necessary for the achievement of his goal.  This action and the simultaneous increase of tension are known technically as the rising action of the play.  Rising action builds toward a climax, the dramatic highpoint, or point of greatest tension in the play.  All action after the climax is referred to as the falling action, or resolution, of the play.  Reread the banquet scene (Scene 4).  Why do you think it is considered by many to be the climax, or turning point, of Macbeth?
- 
+
+[openingSpeech]: https://a1cd.github.io/Macbeth-Resources/The%20Tragedy%20of%20Macbeth#banquo-24
 ## Act IV
  
  1. Hecate and the witches call up four separate apparitions for Macbeth.  What are they?  Why is Macbeth oblivious to the hidden meanings in the witches’ prophecies?  What occurrence in this scene deeply disturbs him?  Why does the last king carry a looking glass?
