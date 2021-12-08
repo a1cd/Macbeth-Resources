@@ -7,3 +7,17 @@
  - he is tourtured by his emotions
  - he realzies that he will suffer on earth and heaven.
  - the world is out of balance
+ - killing the king is the worst thing you can morrally do at this time
+   - to make matters worse, he was supposed to protect him
+
+
+# Lady goes mad
+ - if she committed soucide 
+   - if the demons are still in her, is it her?
+   - did she commit suicide
+   - could she be fighting them?
+   - could macbeth be doing the same?
+ - since suiciade is unholy
+   - and suicide is done when there seems no way out
+   - then if she had prayed to god, would people have thought of her as morally permissable?
+     - that story from history where that guy became a monk
